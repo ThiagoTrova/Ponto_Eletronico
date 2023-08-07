@@ -1,0 +1,9 @@
+﻿  Origem2.cpp
+C:\Users\MAGVIA\Desktop\Test_DB\Teste_DB\Origem2.cpp(246,48): warning C4838: a conversão de 'int' em 'unsigned int' requer uma conversão de restrição
+C:\Users\MAGVIA\Desktop\Test_DB\Teste_DB\Origem2.cpp(326,25): warning C4244: 'inicializando': conversão de 'uint16_t' para 'uint8_t', possível perda de dados
+  Gerando código
+  2 of 229 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  Teste_DB.vcxproj -> C:\Users\MAGVIA\Desktop\Test_DB\Teste_DB\x64\Release\Teste_DB.exe
